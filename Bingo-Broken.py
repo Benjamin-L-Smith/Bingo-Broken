@@ -7,10 +7,12 @@
 #the user can also use their numpad, but do note that the spaces align with where the numbers are on the numpad.
 #ex: slot A1=7 or C3=3
 
+#I now realize that this is actually tic-tak-toe, but I've called this bingo for about two months, and I don't care enough to correct.
+
 
 import random
 
-#these are for text colors:
+#these are for text colors: (currently unused)
 norm = "\033[0m" #short for normal - resets color
 blue = "\033[34m" #makes '☼' Blue
 purple = "\033[35m" #makes 'x' Purple
